@@ -1,4 +1,4 @@
-# Ambari on Docker
+# Ambari on Docker.
 
 
 This projects aim is to help you to get started with ambari. The 2 easiest way
@@ -79,6 +79,6 @@ So grab a cup coffee, and after about 10 minutes, you have a ready HDP 2.3 clust
 For the multi node Hadoop cluster instructions please read our [blog](http://blog.sequenceiq.com/blog/2014/06/19/multinode-hadoop-cluster-on-docker/) entry or run this one-liner:
 
 ```
-curl -Lo .amb j.mp/docker-ambari && . .amb && amb-deploy-cluster
+curl -Lo .amb j.mp/Ambari_on_Docker && . .amb && amb-deploy-cluster
 ```
 
